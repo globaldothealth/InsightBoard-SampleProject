@@ -1,0 +1,25 @@
+RecordID,Age,Gender,Location,StartDate,DeclaredSymptoms,MedicalStatus,Vaccination,DaysToRecovery,PriorHealthIssues
+1,58,Woman,SF,23/06/2023,"[fatigue, muscle pain]",recov,partial,,
+2,66,Man,S.F.,26/04/2023,"[fever, shortness of breath]",fatal,partial,,Asthma
+3,19,Man,NewYork,10/08/2023,"[fatigue, muscle pain]",fatal,partial,11.0,
+4,22,Man,NYC,18/05/2023,"[fatigue, muscle pain]",dead,unvaccinated,9.0,
+5,36,Woman,Dallas,14/08/2023,"[fever, cough]",recov,vaccinated,10.0,Heart problems
+6,19,Man,S.D.,26/08/2023,"[fever, cough, headache]",recovered,unvaccinated,15.0,Kidney Disease
+7,34,Woman,San Francisco,17/08/2023,"[fever, short breath]",recovered,none,10.0,
+8,79,Man,Philly,24/08/2023,"[short breath, fatigue]",recov,unvaccinated,8.0,
+9,75,Woman,Seattle,25/08/2023,"[fatigue, headache]",recov,unvaccinated,13.0,
+10,35,Non-binary,LV,27/08/2023,[short breath],recovered,vaccinated,8.0,High BP
+11,79,Man,Boston,18/08/2023,"[fever, cough, fatigue]",recovered,unvaccinated,15.0,
+12,21,Woman,Dallas,16/08/2023,"[fever, headache]",recovered,none,,Diabetes
+13,62,Woman,Dallas,08/10/2023,"[fever, coughing]",recovered,vaccinated,,
+14,40,Woman,Philly,19/08/2023,"[fever, cough, fatigue]",recovered,unvaccinated,,Asplenia
+15,71,Man,Seattle,12/08/2022,"[fatigue, muscle ache]",recov,none,,
+16,45,Man,Seattle,20/08/2023,"[cough, fatigue]",recov,vaccinated,10.0,Athma
+17,33,O,Detroit,21/08/2023,"[fever, headache]",recovered,none,9.0,HBP
+18,23,Woman,Dallas,23/08/2023,"[fever, coughing]",recovd,unvaccinated,12.0,Migraine
+19,55,Woman,Dallas,15/08/2023,[short breath],dead,vaccinated,8.0,Diabeties
+20,43,Woman,Boston,22/08/2023,"[fatigue, muscle pain, fever]",recovered,vaccinated,,
+21,32,Man,Atlanta,09/08/2023,"[fever, cough]",dead,vaccinated,14.0,Lung issue
+22,34,Woman,Atlanta,12/08/2023,"[fever, coughing]",fatal,vaccinated,,
+23,27,Man,Seattle,11/08/2023,"[fever, fatigue]",dead,partial,,
+24,37,Woman,Denver,13/08/2023,"[short breath, fatigue]",recovered,unvaccinated,12.0,
