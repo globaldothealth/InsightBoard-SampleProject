@@ -7,6 +7,7 @@ The project contains a single target schema, sample datasets (one in the target 
 ├─ data/
 │  ├─ sample_data_native.csv     # Sample data in the target format
 │  └─ sample_data_source1.csv    # Sample data in another (non-target) format
+|  └─ sample_data_source2.csv    # Sample data in another (non-target) format
 ├─ parsers/
 │  ├─ native.py                  # Basic parser to read data in the target format
 │  ├─ adtl-source1.py            # Sample parser using ADTL to ingest source1 data
